@@ -17,12 +17,11 @@ else if(age>=50){
     const payAmount= price -discount;
     console.log(payAmount);
 }
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-else{console.log(price)
-}
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
+// else{console.log(price)
